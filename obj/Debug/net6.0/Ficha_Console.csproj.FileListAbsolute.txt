@@ -1,0 +1,15 @@
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\bin\Debug\net6.0\Ficha_Console.exe
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\bin\Debug\net6.0\Ficha_Console.deps.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\bin\Debug\net6.0\Ficha_Console.runtimeconfig.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\bin\Debug\net6.0\Ficha_Console.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\bin\Debug\net6.0\Ficha_Console.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\obj\Debug\net6.0\Ficha_Console.csproj.AssemblyReference.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\obj\Debug\net6.0\Ficha_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\obj\Debug\net6.0\Ficha_Console.AssemblyInfoInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\obj\Debug\net6.0\Ficha_Console.AssemblyInfo.cs
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\obj\Debug\net6.0\Ficha_Console.csproj.CoreCompileInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\obj\Debug\net6.0\Ficha_Console.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\obj\Debug\net6.0\refint\Ficha_Console.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\obj\Debug\net6.0\Ficha_Console.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\obj\Debug\net6.0\Ficha_Console.genruntimeconfig.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Ficha_Console\obj\Debug\net6.0\ref\Ficha_Console.dll
